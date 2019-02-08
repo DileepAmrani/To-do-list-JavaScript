@@ -1,0 +1,36 @@
+#Div{
+    text-align: center
+}
+
+#h1Id{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+#inpId{
+    border-radius: 8px;
+    height: 35px;
+    width: 200px;
+    /* box-shadow: 3px 3px 10px 3px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#btnId{
+    /* border-radius: 8px; 
+    height: 25px;
+    background-color: deepskyblue;
+    box-shadow: 3px 3px 10px 3px;
+    margin-left: 10px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+#delte{
+    height: 40px;
+    width: 70px;
+    margin-left: 2px;
+}
+#edit{
+    height: 40px;
+    width: 70px;
+    margin-left: 2px;
+    
+}
